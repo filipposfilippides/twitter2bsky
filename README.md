@@ -4,9 +4,11 @@ Migrate from twitter to Blue Sky all posts
 * Installation
   * 1.
    - put the two files in a folder
-   - put unzipping twitter backup in a new folder twitter/
-    - tweets_media/
-    - and tweets.js are the only files needed.
+   - put unzipping twitter backup in this folder
+    - ./data/tweets_media/
+    - and
+    - ./tweets.js
+    - are the only needed.
    - edit bsky_cred.py with your credentials
   * 2.
    - $ pip install atproto grapheme
