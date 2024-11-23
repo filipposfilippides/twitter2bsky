@@ -43,7 +43,7 @@ def media_url(url, tid):
         match = re.search(r"/media/(.*)", url)
         if match:
             newsub = match.group(1)
-            newurl="twitter/tweets_media/"+tid+"-"+newsub
+            newurl="data/tweets_media/"+tid+"-"+newsub
         else:
             newsub = ""
             
