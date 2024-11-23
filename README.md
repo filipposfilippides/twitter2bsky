@@ -16,3 +16,5 @@ Migrate from twitter to Blue Sky all posts
 * Execution
    - $ python bsky_tweetposts.py
   
+* Comments
+   - python 3.10 is used
