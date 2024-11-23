@@ -3,7 +3,7 @@ Migrate from twitter to Blue Sky all posts
 
 * Installation
   * 1.
-   - put the two files in a folder
+   - put the two bsky_* files in a folder
    - put unzipping twitter backup in this folder
     - ./data/tweets_media/
     - and
